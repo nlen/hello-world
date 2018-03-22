@@ -1,2 +1,3 @@
 # hello-world
-just anotehr repository
+just another repository
+I'm an aging statitician.
